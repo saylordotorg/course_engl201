@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL201: ­Medieval English Literature and Culture"
+course_description: "A detailed introduction to the medieval origins of English culture and literature, covering Anglo-Saxon England and Old English poetry, Anglo-Norman England and the Romances, and Middle English Literature."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL201: ­Medieval English Literature and Culture"
 -----------------------------------------------------------------------
 

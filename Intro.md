@@ -1,6 +1,16 @@
 Course Syllabus for "ENGL201: ­Medieval English Literature and Culture"
 -----------------------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_engl201) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 The medieval period, or the Middle Ages, spans about a thousand years
 between the fall of the Roman Empire, which occurred around 500 CE, and
 the beginning of the European Renaissance, which was a bit later in

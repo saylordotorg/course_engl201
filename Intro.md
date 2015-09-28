@@ -168,3 +168,4 @@ hours) on Monday night; the introduction to subunit 1.2 through subunit
 - [Unit 2](https://legacy.saylor.org/engl201/Unit02/)
 - [Unit 3](https://legacy.saylor.org/engl201/Unit03/)
 - [Unit 4](https://legacy.saylor.org/engl201/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL201/ENGL201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL201/ENGL201-FinalExam-Answers.html)

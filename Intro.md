@@ -86,7 +86,7 @@ computer;
 √    be competent in the English language; and
 
 √    have read the [Saylor Student
-Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -98,15 +98,15 @@ online materials. However, the course makes primary use of the following
 materials:
 
 -   Carson-Newman College: Dr. L. Kip Wheeler’s [“Literary Terms and
-    Definitions”](http://www.saylor.org/site/wp-content/uploads/2012/06/Literary-Terms-and-Definitons.pdf) (PDF)
+    Definitions”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Literary-Terms-and-Definitons.pdf) (PDF)
 -   *[The ORB: Online Reference Book for Medieval
     Studies](http://www.the-orb.net/encyclo.html)*
--   *[Beowulf](http://www.saylor.org/site/wp-content/uploads/2012/06/BEOWULF-Full-Text.pdf) *(PDF)
+-   *[Beowulf](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BEOWULF-Full-Text.pdf) *(PDF)
 -   University of Florida: Judith P. Shoaf’s Translation of Marie de
     France’s *The Lais of Marie de
     France*: [“Lanval”](http://www.clas.ufl.edu/~jshoaf/Marie/)  (PDF)
 -   Project Gutenberg: De Troye’s [“Yvain, le Chevalier au
-    Lion”](http://www.saylor.org/site/wp-admin/post.php?post=122&action=edit&message=1#2H_4_0005) (HTML)
+    Lion”](https://resources.saylor.org/archived/wp-admin/post.php?post=122&action=edit&message=1#2H_4_0005) (HTML)
 -   The Camelot Project at the University of Rochester: J.A. Gile’s
     Translation of Geoffrey of
     Monmouth’s [“](http://www.lib.rochester.edu/Camelot/geofhkb.htm)[The
@@ -116,13 +116,13 @@ materials:
     of [“Ancrene
     Wisse”](http://www.lib.rochester.edu/camelot/teams/hasenfratz.htm) (HTML)
 -   Richard Morris’s Edited version of [“Sir Gawayne and the Green
-    Knight”](http://www.saylor.org/site/wp-content/uploads/2012/06/Sir-Gawayne-and-the-Green-Knight.pdf) (PDF)
+    Knight”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Sir-Gawayne-and-the-Green-Knight.pdf) (PDF)
 -   Chaucer’s *The Cantebury Tales*: [“The General Prologue,” and “The
     Miller’s Tale,” “The Wife of Bath’s
-    Tale”](http://www.saylor.org/site/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf) (PDF)
+    Tale”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf) (PDF)
 -   Julian of Norwich’s Revelations of Divine Love: [“To the Reader” and
     “Chapters 1 - 3 and 58 -
-    60”](http://www.saylor.org/site/wp-content/uploads/2012/06/Revelations-of-divine-love.pdf) (PDF)
+    60”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Revelations-of-divine-love.pdf) (PDF)
 -   University of Rochester: Lynn Staley’s edited version of *The Book
     of Margery Kempe*: [“Book
     I”](http://www.lib.rochester.edu/camelot/teams/kemp1frm.htm) (HTML)

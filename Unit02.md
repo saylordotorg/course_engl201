@@ -90,10 +90,10 @@ id="2.1.1"></span> 
 
     Link: *The ORB: Online Reference Book for Medieval Studies*: Steven
     Muhlberger’s *Medieval
-    England*: [“1066”](http://www.saylor.org/site/wp-content/uploads/2012/07/Medieval-England.pdf) (HTML);
+    England*: [“1066”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Medieval-England.pdf) (HTML);
     Fordham University’s *Internet Medieval History Sourcebook*: William
     of Malmesbury’s [“The Battle of Hastings,
-    1066”](http://www.saylor.org/site/wp-content/uploads/2012/06/The-Battle-of-Hastings.pdf) (PDF);
+    1066”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Battle-of-Hastings.pdf) (PDF);
     *Catholic Encyclopedia*’s [“William the
     Conqueror”](http://en.wikisource.org/wiki/William_the_Conqueror_(DNB00))(PDF)
 
@@ -127,7 +127,7 @@ id="2.1.2"></span> 
     and Feudalism”**
 
     Link: Lynn Harry Nelson’s [“The Sundering of Society, 1350 -
-    1500”](http://www.saylor.org/site/wp-content/uploads/2012/06/The-Sundering-of-Society.pdf) (PDF) and
+    1500”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Sundering-of-Society.pdf) (PDF) and
     Regia Anglorum Publication’s [“Norman Social Organization and
     Feudalism”](http://www.regia.org/history/norman2.htm) (HTML)  
         
@@ -153,7 +153,7 @@ English  ** <span id="2.1.3"></span> 
     “Middle English”**
 
     Link: Washington State University: Dr. Michael Delahoyde’s [“Middle
-    English”](http://www.saylor.org/site/wp-content/uploads/2012/06/Middle-English.pdf) (PDF)
+    English”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Middle-English.pdf) (PDF)
 
     Instructions: Read the short essay on “Middle English,” which charts
     the transition to French-based language and literature as a product
@@ -230,7 +230,7 @@ id="2.2.1"></span> 
     (HTML); Carson-Newman College: Dr. L. Kip Wheeler’s [“Map of
     Breton”](http://web.cn.edu/kwheeler/IE_Centum_Breton.html)(HTML);
     The Middle Ages’ [“King
-    Arthur”](http://www.saylor.org/site/wp-content/uploads/2012/06/King-Arthur.pdf) (PDF)  
+    Arthur”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/King-Arthur.pdf) (PDF)  
         
      Instructions: First, read the chapter titled “The Norman
     Settlement” for historical context about the presence of Bretons in
@@ -256,9 +256,9 @@ Genre** <span id="2.2.2"></span> 
     Terms and Definitions”**
 
     Link: Carson-Newman College: Dr. L. Kip Wheeler’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2011/02/LAI.pdf)[Literary
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2011/02/LAI.pdf)[Literary
     Terms and
-    Definitions”](http://www.saylor.org/site/wp-content/uploads/2012/06/LTD222.pdf) (PDF)  
+    Definitions”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/LTD222.pdf) (PDF)  
               
      Instructions: Read the definition of *lai*.
 
@@ -280,14 +280,14 @@ Genre** <span id="2.2.2"></span> 
 
     Link: The Saylor Foundation’s [“Marie de France’s ‘Lanval’ and the
     Birth of the Romance
-    Genre”](http://www.saylor.org/site/wp-content/uploads/2012/07/ENGL201-2.2.3-Lanval.pdf)
+    Genre”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ENGL201-2.2.3-Lanval.pdf)
     (PDF); University of Florida: Judith P. Shoaf’s Translation of Marie
     de France’s *The Lais of Marie de France*:
     [“Lanval”](http://www.clas.ufl.edu/~jshoaf/Marie/)  (PDF);
     Washington State University: Dr. Michael Delahoyde’s
-    [“Romance”](http://www.saylor.org/site/wp-content/uploads/2012/06/Romance.pdf) (PDF);
+    [“Romance”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Romance.pdf) (PDF);
     Carson-Newman College: Dr. L. Kip Wheeler’s [“Medieval
-    Romance”](http://www.saylor.org/site/wp-content/uploads/2012/07/Literary-Terms-and-Definitions-medieval-romance.pdf) (PDF)  
+    Romance”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Literary-Terms-and-Definitions-medieval-romance.pdf) (PDF)  
         
      Instructions: Click on the first link above and read The Saylor
     Foundation’s text for some background about “Lanval” and the birth
@@ -347,9 +347,9 @@ Chivalric Knight in Romans d’Aventure** <span id="2.3.2"></span> 
 
     Link: Washington State University: Dr. Michael Delahoyde’s
     [“Arthurian
-    Romance”](http://www.saylor.org/site/wp-content/uploads/2012/06/Arthurian-Romance.pdf) (PDF) and
+    Romance”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Arthurian-Romance.pdf) (PDF) and
     [“Courtly
-    Love”](http://www.saylor.org/site/wp-content/uploads/2012/06/Courtly-Love.pdf)
+    Love”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Courtly-Love.pdf)
     (PDF)  
         
      Instructions: Read both brief essays for an introduction to the
@@ -383,7 +383,7 @@ System, and Anglo-Norman Values** <span id="2.3.3"></span> 
     [“Illustrations”](http://www.wwnorton.com/college/english/nael/middleages/topic_2/illustrations.htm)
     (HTML); The Saylor Foundation’s [“Chretien de Troye’s ‘Yvain, le
     Chevalier au Lion,’ the Class System, and Anglo Norman
-    Values”](http://www.saylor.org/site/wp-content/uploads/2012/07/ENGL201-2.3.3-Yvain.pdf)
+    Values”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ENGL201-2.3.3-Yvain.pdf)
     (PDF); Project Gutenberg: De Troye’s [“Yvain, le Chevalier au
     Lion”](#2H_4_0005) (HTML)  
         
@@ -467,9 +467,9 @@ Period** <span id="2.4.1"></span> 
     Literature*: [“The First
     Crusade”](http://www.wwnorton.com/college/english/nael/middleages/topic_3/welcome.htm)
     (HTML); Godfrey Daimbert and Raymond Daimbert’s [“Letter to the
-    Pope”](http://www.saylor.org/site/wp-content/uploads/2011/02/Daimbert-letter.pdf)
+    Pope”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Daimbert-letter.pdf)
     (PDF) and The Duke of Lorraine’s [“Letter to the Archbishop of
-    Cologne”](http://www.saylor.org/site/wp-content/uploads/2012/06/Letter-to-the-Archbishop-of-Cologne.pdf)
+    Cologne”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Letter-to-the-Archbishop-of-Cologne.pdf)
     (PDF)
 
     Instructions: First read the chapter from *Medieval England* titled
@@ -492,7 +492,7 @@ id="2.4.2"></span> 
 
     Link: University of Central Arkansas: Dr. Jonathan A. Glenn’s
     [“Notes on Middle English
-    Romance”](http://www.saylor.org/site/wp-content/uploads/2012/06/Notes-on-Middle-English-Romance.pdf) (PDF)
+    Romance”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Notes-on-Middle-English-Romance.pdf) (PDF)
 
     Instructions: As you read, consider Dr. Glenn’s articulation of the
     relationship between romance and religion.

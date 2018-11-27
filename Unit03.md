@@ -115,7 +115,7 @@ Centuries** <span id="3.1.1"></span> 
     of the Wars of the Roses”**
 
     Link: *Catholic Encyclopedia*’s
-    [“Crusades”](http://www.saylor.org/site/wp-content/uploads/2012/06/Crusades1.pdf) (PDF)
+    [“Crusades”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Crusades1.pdf) (PDF)
     and *The ORB: Online Reference Book for Medieval Studies*: Steven
     Muhlberger’s *Medieval England*: [“Origins of the Hundred Years’
     War”](http://www.the-orb.net/textbooks/muhlberger/edwardiii.html)
@@ -152,7 +152,7 @@ Centuries** <span id="3.1.1"></span> 
     Effects of the Plague”**
 
     Link: Lynn Harry Nelson’s [“The Great Famine and the Black
-    Death”](http://www.saylor.org/site/wp-content/uploads/2012/07/The-Great-Famine.pdf) (PDF)
+    Death”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/The-Great-Famine.pdf) (PDF)
     and Brown University: Decameron Web’s [“Social and Economic Effects
     of the
     Plague”](http://www.brown.edu/Departments/Italian_Studies/dweb/plague/effects/social.php)
@@ -178,7 +178,7 @@ the Rise  ** <span id="3.1.3"></span> 
 
     Link: Lynn Harry Nelson’s [“The Rise of Capitalism and Decline of
     the
-    Gilds”](http://www.saylor.org/site/wp-content/uploads/2012/07/The-Rise-of-Capitalism-and-Decline-of-the-Gilds.pdf) (PDF)  
+    Gilds”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/The-Rise-of-Capitalism-and-Decline-of-the-Gilds.pdf) (PDF)  
         
      Instructions: Read this lecture for more information on the
     changing economic structure in the Late Medieval Period, including
@@ -196,7 +196,7 @@ the Rise  ** <span id="3.1.3"></span> 
     and Rice University: Suzanne Kemmer’s “A Brief History of English”**
 
     Link: Carson-Newman College: Dr. L. Kip Wheeler’s
-    *[“Medieval”](http://www.saylor.org/site/wp-content/uploads/2012/06/LITERARY-TERMS-ND-DEFINITONS-medieval.pdf)* (PDF)
+    *[“Medieval”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/LITERARY-TERMS-ND-DEFINITONS-medieval.pdf)* (PDF)
     and Rice University: Suzanne Kemmer’s [“A Brief History of
     English”](#mid) (HTML)
 
@@ -224,7 +224,7 @@ Issues of the Day  ** <span id="3.1.5"></span> 
     Langland: Piers Plowman”**
 
     Link: William Langland’s [“Piers
-    Plowman”](http://www.saylor.org/site/wp-content/uploads/2012/06/The-Visions-of-Piers-Plowman.pdf)
+    Plowman”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Visions-of-Piers-Plowman.pdf)
     (PDF) and Harvard University’s The Geoffrey Chaucer Page: L.D.
     Benson’s [“William Langland: Piers
     Plowman”](http://www.courses.fas.harvard.edu/%7Echaucer/special/authors/langland/)
@@ -261,11 +261,11 @@ id="3.2"></span> 
 
     Link: Carson-Newman College: Dr. L. Kip Wheeler’s “Literary Terms
     and Definitions”: [“Alliterative
-    Revival”](http://www.saylor.org/site/wp-content/uploads/2012/06/LITERARY-TERMS-ND-DEFINITONS-alliterative-revival.pdf) (PDF) and
+    Revival”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/LITERARY-TERMS-ND-DEFINITONS-alliterative-revival.pdf) (PDF) and
     [“Alliterative
-    Verse”](http://www.saylor.org/site/wp-content/uploads/2012/06/LITERARY-TERMS-ND-DEFINITONS-alliterative-verse.pdf) (PDF); [“](http://www.saylor.org/site/wp-content/uploads/2012/07/The-Alliterative-Morte-Arthure.pdf)[The
+    Verse”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/LITERARY-TERMS-ND-DEFINITONS-alliterative-verse.pdf) (PDF); [“](https://resources.saylor.org/archived/wp-content/uploads/2012/07/The-Alliterative-Morte-Arthure.pdf)[The
     Alliterative Morte
-    Arthure”](http://www.saylor.org/site/wp-content/uploads/2012/07/The-Alliterative-Morte-Arthure.pdf) (PDF)     
+    Arthure”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/The-Alliterative-Morte-Arthure.pdf) (PDF)     
         
      Instructions: Read both definitions for a sense of development and
     characteristics of the Alliterative Revival. Then, look at lines 1 -
@@ -288,7 +288,7 @@ id="3.2.2"></span> 
     Terms and Definitions”: “Medieval Romance”**
 
     Link: Carson-Newman College: Dr. L. Kip Wheeler’s [“Medieval
-    Romance”](http://www.saylor.org/site/wp-content/uploads/2012/07/Literary-Terms-and-Definitions-medieval-romance.pdf)
+    Romance”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/Literary-Terms-and-Definitions-medieval-romance.pdf)
     (PDF)  
         
      Instructions: Reread the definition of Medieval Romance. However,
@@ -341,7 +341,7 @@ id="3.2.2"></span> 
     Green Knight”**
 
     Link: Richard Morris’s Edited version of [“Sir Gawayne and the Green
-    Knight”](http://www.saylor.org/site/wp-content/uploads/2012/06/Sir-Gawayne-and-the-Green-Knight.pdf) (PDF)
+    Knight”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Sir-Gawayne-and-the-Green-Knight.pdf) (PDF)
 
     Also available in:  
      ([Google Books](#v=onepage&q&f=false))  
@@ -435,7 +435,7 @@ id="3.3.3"></span> 
     Prologue”**
 
     Link: Chaucer’s *The Canterbury Tales*: [“The General
-    Prologue”](http://www.saylor.org/site/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf) (PDF)  
+    Prologue”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf) (PDF)  
       
      Instructions: Read “The General Prologue” to Chaucer’s *The
     Canterbury Tales*. Geoffrey Chaucer’s *The Canterbury Tales* is a
@@ -508,10 +508,10 @@ Tales* and Exercises in Pronunciation  ** <span id="3.3.4"></span> 
     Terms and Definitions”: “Medieval Estates Satire”**
 
     Link: Chaucer’s *The Canterbury Tales*: [“The Miller’s Tale: The
-    Prologue”](http://www.saylor.org/site/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf)
+    Prologue”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf)
     (PDF) and Carson-Newman College: Dr. L. Kip Wheeler’s “Literary
     Terms and Definitions”: [“Medieval Estates
-    Satire”](http://www.saylor.org/site/wp-content/uploads/2011/02/Medieval-estates-satire.pdf) (PDF)
+    Satire”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Medieval-estates-satire.pdf) (PDF)
 
     Instructions: Read “The Miller’s Tale: The Prologue” from *The
     Canterbury Tales*, as well as Dr. Wheeler’s definition of “Medieval
@@ -549,7 +549,7 @@ Antifeminism** <span id="3.3.6"></span> 
 
     Link: Chaucer’s *The Canterbury Tales*: [“The Wife of Bath’s Tale:
     The
-    Prologue”](http://www.saylor.org/site/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf)
+    Prologue”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/THE-CANTERBURY-TALES-2.pdf)
     (PDF)  
       
      Instructions: Read this text. “The Wife of Bath’s Tale” and its
@@ -600,10 +600,10 @@ id="3.4.1"></span> 
     English Plays”**
 
     Brander Matthews’ [“The Medieval
-    Drama”](http://www.saylor.org/site/wp-content/uploads/2012/06/THE-MEDIEVAL-DRAMA.pdf) (PDF) and
+    Drama”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/THE-MEDIEVAL-DRAMA.pdf) (PDF) and
     Robert Huntington Fletcher’s [“Medieval Drama: An Introduction to
     Middle English
-    Plays”](http://www.saylor.org/site/wp-content/uploads/2012/06/Medieval-Drama-luminarium.pdf) (PDF)
+    Plays”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Medieval-Drama-luminarium.pdf) (PDF)
 
     Instructions: Read all four pages of Matthew’s “The Medieval Drama”
     for more context on the evolution of cycle plays, including mystery
@@ -652,7 +652,7 @@ id="3.4.1"></span> 
 -   **Reading: *Catholic Encyclopedia*’s “Moralities”**
 
     Link: *Catholic Encyclopedia*’s
-    [“Moralities”](http://www.saylor.org/site/wp-content/uploads/2012/06/Moralities.pdf) (PDF)
+    [“Moralities”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Moralities.pdf) (PDF)
 
     Instructions: Read this brief article, “Moralities,” for information
     about the development and significance of morality plays in the
@@ -699,9 +699,9 @@ Relationship between Man and God  ** <span id="3.5.1"></span> 
     of Dreams”**
 
     Link: *Catholic Encyclopedia*’s
-    [“Mysticism”](http://www.saylor.org/site/wp-content/uploads/2012/06/Mysticism.pdf) (PDF) and
+    [“Mysticism”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Mysticism.pdf) (PDF) and
     [“Interpretation of
-    Dreams”](http://www.saylor.org/site/wp-content/uploads/2012/06/Interpretation-of-Dreams.pdf)[ ](http://www.saylor.org/site/wp-content/uploads/2012/06/Interpretation-of-Dreams.pdf)(PDF)  
+    Dreams”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Interpretation-of-Dreams.pdf)[ ](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Interpretation-of-Dreams.pdf)(PDF)  
         
      Instructions: Read both definitions for more information about the
     Medieval Ages turn to dreams, mysticism, and vision in order to
@@ -749,7 +749,7 @@ id="3.5.3"></span> 
 
     Link: Julian of Norwich’s *Revelations of Divine Love*: [“To the
     Reader” and “Chapters 1 - 3 and 58 -
-    60”](http://www.saylor.org/site/wp-content/uploads/2012/06/Revelations-of-divine-love.pdf) (PDF);
+    60”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Revelations-of-divine-love.pdf) (PDF);
     University of Rochester: Lynn Staley’s edited version of *The Book
     of Margery Kempe*: [“Book
     I”](http://www.lib.rochester.edu/camelot/teams/kemp1frm.htm) (HTML);
@@ -801,7 +801,7 @@ id="3.5.3"></span> 
     the Church”**
 
     Link: The Saylor Foundation’s [“Depictions of God and Changes in the
-    Church”](http://www.saylor.org/site/wp-content/uploads/2012/07/ENGL201-3.5.3-Depictions-of-God.pdf)
+    Church”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ENGL201-3.5.3-Depictions-of-God.pdf)
     (PDF)
 
     Instructions: Read this text to supplement your understanding of

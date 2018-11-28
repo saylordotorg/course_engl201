@@ -101,7 +101,7 @@ displayed on the webpage above.
 
 Link: Washington State University: Dr. Michael Delahoyde’s
 [“Anglo-Saxon
-Culture”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Anglo-Saxon-culture.pdf)
+Culture”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Anglo-Saxon-culture.pdf)
 (PDF)   
   
 Instructions: Read all of Dr. Delahoyde’s review of “Anglo-Saxon
@@ -129,9 +129,9 @@ Link: *The ORB: Online Reference Book for Medieval Studies*: Steven
 Muhlberger’s *Medieval England*: [“The Age of
 Bede”](http://www.the-orb.net/textbooks/muhlberger/age_of_bede.html)
 (HTML); *Catholic Encyclopedia*’s [“The Venerable
-Bede”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Catholic-Encyclopedia-Bede.pdf)
+Bede”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Catholic-Encyclopedia-Bede.pdf)
 (PDF); Excerpt from Bede’s [*Conversion of
-England*](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Conversion-of-England.pdf) (PDF)  
+England*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Conversion-of-England.pdf) (PDF)  
 
 Instructions: First, read the chapter titled “The Age of Bede” from
 Muhlberger’s *Medieval England*. Then, read the *Catholic
@@ -163,9 +163,9 @@ Poet Caedmon”**
 
 Link: Bede’s* Ecclesiastical History of the English Nation*, Book
 IV: [“Chapter
-XXIV”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Ecclesiastical-History-of-the-English-Nation.pdf) (PDF)
+XXIV”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Ecclesiastical-History-of-the-English-Nation.pdf) (PDF)
 and F.W. Garforth’s [“Bede’s Account of the Poet
-Caedmon”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Bedes-Account-of-Caedmon.pdf) (PDF)
+Caedmon”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Bedes-Account-of-Caedmon.pdf) (PDF)
 
 Instructions: Read all of Chapter XXIV from Bede’s *Ecclesiastical
 History*, which provides the full text of “Caedmon’s Hymn.” Also,
@@ -211,7 +211,7 @@ and Christian Values in ‘Caedmon’s Hymn’”**
 
 Link: The Saylor Foundation’s [“Blend of Oral-Formulaic Verse and
 Christian Values in ‘Caedmon’s
-Hymn’”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Blend-of-Oral.pdf)
+Hymn’”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Blend-of-Oral.pdf)
 (PDF)  
   
 Instructions: Read this article about “Caedmon’s Hymn” for an
@@ -271,13 +271,13 @@ Wanderer”**
 
 Link: Carson-Newman College: Dr. L. Kip Wheeler’s [“Literary Terms
 and
-Definitions”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Literary-Terms-and-Definitons.pdf) (PDF);
+Definitions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Literary-Terms-and-Definitons.pdf) (PDF);
 University of Central Arkansas: Excerpts from Dr. Jonathan A.
 Glenn’s Translations of
-[“](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Seafarer.pdf)[The
-Seafarer”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Seafarer.pdf)
+[“](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Seafarer.pdf)[The
+Seafarer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Seafarer.pdf)
 (PDF) and [“The
-Wanderer”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Wanderer.pdf)
+Wanderer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Wanderer.pdf)
 (PDF)
 
 Instructions: Read the definitions of comitatus, hlaford, and
@@ -338,7 +338,7 @@ of Maldon”; Old English Literature: A Hypertext Course Pack:
 
 Link: University of Central Arkansas: Excerpts from Dr. Jonathan A.
 Glenn’s Translations of [“The
-Wanderer”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Wanderer.pdf)
+Wanderer”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Wanderer.pdf)
 (PDF) and [“](http://www.lightspill.com/poetry/oe/maldon.html)[The
 Battle of
 Maldon”](http://www.lightspill.com/poetry/oe/maldon.html) (HTML);
@@ -410,7 +410,7 @@ Literature*: [“The Linguistic and Literary Contexts of
 [“Seamus Heaney on
 *Beowulf*”](http://www.wwnorton.com/college/english/nael/beowulf/welcome.htm)
 (HTML); Old English Literature: A Hypertext Course Pack’s
-[“*Beowulf*”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Beowulf.pdf)
+[“*Beowulf*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Beowulf.pdf)
 (PDF)  
     
 Instructions: Read the essay on “The Linguistic and Literary
@@ -445,7 +445,7 @@ Pronunciation,” “Chapter 11: Concord,” “Chapter 12: Word-Order,” and
 
 Link: Carson-Newman College: Dr. L. Kip Wheeler’s [“Literary Terms
 and
-Definitions”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Literary-Terms-and-Definitions-alliteration-etc.pdf) (PDF)
+Definitions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Literary-Terms-and-Definitions-alliteration-etc.pdf) (PDF)
 and Western Michigan University: Dr. Peter S. Baker’s *Electronic
 Introduction to Old English*: [“Chapter 2: Pronunciation,” “Chapter
 11: Concord,” “Chapter 12: Word-Order,” and “Chapter 14: Poetic
@@ -507,7 +507,7 @@ Is Oral Poetry?” and *Beowulf***
 Link: Center for Studies in Oral Tradition’s [“First Word: What Is
 Oral Poetry?”](http://www.oraltradition.org/hrop/first_word)
 (HTML) and
-*[Beowulf](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BEOWULF-Full-Text.pdf) (*PDF)  
+*[Beowulf](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/BEOWULF-Full-Text.pdf) (*PDF)  
     
 Instructions: Read the short essay “First Word: What Is Oral
 Poetry?” which provides a brief example of how to read a short
@@ -544,7 +544,7 @@ W.W. Norton and Company’s *The Norton Anthology of English
 Literature*: Excerpt from [“Rule of St.
 Benedict”](http://www.wwnorton.com/college/english/nael/middleages/topic_1/stbenedict.htm)
 (HTML); Lynn Harry Nelson’s [“The Rise of
-Monasticism”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Rise-of-Monasticism.pdf) (PDF)  
+Monasticism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Rise-of-Monasticism.pdf) (PDF)  
     
 Instructions: Read these two short lectures from Dr. Kreis for an
 overview of historical perspectives on religious thought. Read the
@@ -569,7 +569,7 @@ Gods” and Bede’s *Ecclesiastical History of the English Nation*,
 Book II: “Chapter I,” “Chapter XIII,” and “Chapter XIV”**
 
 Link: Old English Literature: A Hypertext Course Pack: [“Pagan
-Gods”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Pagan-Gods.pdf) (PDF)
+Gods”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Pagan-Gods.pdf) (PDF)
 and Bede’s *Ecclesiastical History of the English Nation*, Book II:
 [“Chapter I,” “Chapter XIII,” and “Chapter
 XIV”](http://www.fordham.edu/Halsall/basis/bede-book2.asp) (PDF)  
@@ -600,10 +600,10 @@ Hypertext Course Pack: “The Dream of the Rood”**
 
 Link: University of Central Arkansas: Dr. Jonathan A. Glenn’s
 Translation of “[The Dream of the
-Rood](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ENGL201-1.4.3-The-Dream-of-the-Rood-Glenn.pdf)”
+Rood](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ENGL201-1.4.3-The-Dream-of-the-Rood-Glenn.pdf)”
 (PDF) and Old English Literature: A Hypertext Course Pack: “[The
 Dream of the
-Rood](https://resources.saylor.org/archived/wp-content/uploads/2013/11/ENGL201-1.4.3-The-Dream-of-Rood.pdf)” (PDF)  
+Rood](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/ENGL201-1.4.3-The-Dream-of-Rood.pdf)” (PDF)  
     
 Instructions: Read the excerpt from “The Dream of the Rood,”
 translated by Dr. Jonathan A. Glenn. Also, read the sections titled
@@ -637,7 +637,7 @@ Rood’ and the Image of Christ in the Early Middle Ages”**
 
 Link: Hanover College: Jeannette C. Brock’s [“‘The Dream of the
 Rood’ and the Image of Christ in the Early Middle
-Ages”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Dream-of-Rood-and-the-Image-of-Christ-in-the-Early-Middle-Ages.pdf) (PDF)  
+Ages”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Dream-of-Rood-and-the-Image-of-Christ-in-the-Early-Middle-Ages.pdf) (PDF)  
     
 Instructions: Read this essay for a critical perspective on “The
 Dream of the Rood.” While reading this essay, consider the
